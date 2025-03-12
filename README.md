@@ -4,7 +4,10 @@ Paperback extensions for websites which use the generic MangaReader theme.
 
 ## Available Extensions
 
-None at this moment.
+- [Astra Scans](https://astrascans.org)
+- [Asura Scans Free](https://asurascansfree.com/)
+- [Night Scans](https://nightsup.net)
+- [Thunderscans](https://en-thunderscans.com)
 
 ## Installation
 
